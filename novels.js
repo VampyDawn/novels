@@ -202,7 +202,7 @@ export const novels = [
         extras: null,
     },
     {
-        name: "Re:Monster",
+        name: "ReMonster",
         volumes: 11,
         extras: null,
     },
