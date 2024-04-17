@@ -201,4 +201,9 @@ export const novels = [
         volumes: 12,
         extras: null,
     },
+    {
+        name: "Re:Monster",
+        volumes: 11,
+        extras: null,
+    },
 ];
