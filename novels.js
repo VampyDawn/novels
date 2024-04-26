@@ -1,7 +1,7 @@
 export const novels = [
     {
         name: "Bofuri I Don’t Want to Get Hurt, so I’ll Max Out My Defense",
-        volumes: 11,
+        volumes: 12,
         extras: null,
     },
     {
@@ -16,7 +16,7 @@ export const novels = [
     },
     {
         name: "Free Life Fantasy Online Immortal Princess",
-        volumes: 5,
+        volumes: 6,
         extras: null,
     },
     {
@@ -62,7 +62,7 @@ export const novels = [
     },
     {
         name: "Kuma Kuma Kuma Bear",
-        volumes: 17,
+        volumes: 18,
         extras: [{ type: "Extra", volumes: ["Volume (11.5)"] }],
     },
     {
@@ -87,7 +87,7 @@ export const novels = [
     },
     {
         name: "Now I’m a Demon Lord! Happily Ever After with Monster Girls in My Dungeon",
-        volumes: 7,
+        volumes: 8,
         extras: null,
     },
     {
@@ -153,7 +153,7 @@ export const novels = [
     },
     {
         name: "That Time I Got Reincarnated As A Slime",
-        volumes: 17,
+        volumes: 18,
         extras: null,
     },
     {
@@ -173,7 +173,7 @@ export const novels = [
     },
     {
         name: "The Weakest Tamer Began a Journey to Pick Up Trash",
-        volumes: 5,
+        volumes: 6,
         extras: null,
     },
     {
@@ -188,7 +188,7 @@ export const novels = [
     },
     {
         name: "Wandering Witch The Journey of Elaina",
-        volumes: 12,
+        volumes: 13,
         extras: null,
     },
     {
